@@ -1,0 +1,15 @@
+{
+  "name": "project3-express",
+  "version": "1.0.0",
+  "description": "***ROUTES*** POST /auth/register \t-user can create account \t\t\t\t\t\t-body should include the following fields: \t\t\t\t\t\t\t-username \t\t\t\t\t\t\t-password",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "explain-error": "^1.0.4"
+  }
+}
